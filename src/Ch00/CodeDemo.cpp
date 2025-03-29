@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03
+// Exercise 00_03, Mark Hurban
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
@@ -19,3 +19,4 @@ int main(){
     std::cout << std::endl << std::endl;
     return (0);
 }
+
